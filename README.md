@@ -1,3 +1,3 @@
 # arduino_projeto
-Projeto de Anemômetro através de sensor termoresistivo;
-Projeto de qualidade de umidade e temperatura;
+- Anemômetro através de sensor termoresistivo;
+- Qualidade de umidade e temperatura;
