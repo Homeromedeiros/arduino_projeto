@@ -30,7 +30,6 @@ void loop()
   float h = htu.readHumidity();
   int t = htu.readTemperature();
 
-  // testa se retorno é valido, caso contrário algo está errado.
   if (isnan(t) || isnan(h)) {
     lcd.println("Failed to read from DHT");
   } 
